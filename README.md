@@ -17,7 +17,7 @@ Continue working with workbook to create two new analyses:outcomes based on goal
 
 ### Analysis of Outcomes Based on Launch Date
 - **Deliverable 1:** Outcomes Based on Launch Date Chart<br>
-![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/Theater_Outcomes_vs_Launch.png)
+![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/resources/Theater_Outcomes_vs_Launch1.png)
 ### Analysis of Outcomes Based on Goals
 - **Deliverable 2:** Outcomes Based on Goals Chart<br>
 ![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/resources/Outcomes.png)
