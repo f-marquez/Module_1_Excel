@@ -20,7 +20,7 @@ Continue working with workbook to create two new analyses:outcomes based on goal
 ![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 - **Deliverable 2:** Outcomes Based on Goals Chart<br>
-![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/Outcomes%20Based%20Goals%20.png)
+![Alt text](https://github.com/f-marquez/Module_1_Excel/blob/main/resources/Outcomes.png)
 
 ### Challenges and Difficulties Encountered
 
